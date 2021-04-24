@@ -1,0 +1,7 @@
+#Sat Apr 24 14:21:09 ICT 2021
+base.0=C\:\\My Campus\\SEMESTER 6\\Mobile\\UTS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\My Campus\\SEMESTER 6\\Mobile\\UTS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
